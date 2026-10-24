@@ -1,0 +1,9 @@
+.app-panel { max-width: 960px; }
+.student-form { max-width: 660px; }
+.login-form { max-width: 420px; }
+.ui-autocomplete { position: absolute; z-index: 1050; max-height: 220px; overflow-y: auto; list-style: none; background: white; border: 1px solid #adb5bd; border-radius: .375rem; padding: .25rem; box-shadow: 0 .25rem .75rem #0002; }
+.ui-menu-item-wrapper { padding: .5rem .75rem; cursor: pointer; }
+.ui-state-active { background: #0d6efd; color: white; }
+.ui-helper-hidden-accessible { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+.table td { vertical-align: middle; }
+.course-row { background: #f8f9fa; }
